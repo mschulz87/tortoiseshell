@@ -1,7 +1,7 @@
 html {
   font-family: Helvetica, sans-serif;
   font-size: 18px;
-  backgroun-color: white;
+  background-color: white;
   line-height: 1.15;
   text-size-adjust: 100%;
 }
@@ -120,7 +120,7 @@ h1 {
 }
 
 .title {
-  back-ground: cadetblue;
+  background: cadetblue;
   font-weight: bold;
   color: white;
   max-width: 10rem;
