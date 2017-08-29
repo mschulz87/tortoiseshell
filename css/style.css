@@ -16,6 +16,9 @@ header {
   center center / cover no-repeat;
   background-repeat: no-repeat;
   background-position: center center;
+  background-size: cover;
+  padding-top: 1rem;
+  height: 30rem;
 }
 
 article, aside, footer, header, nav, section {
@@ -74,17 +77,17 @@ header .flex {
 
 .main-banner {
   background-color: white;
+  padding: .75rem 5rem;
   display: inline-block;
   margin-top: 10rem;
-  margin-right: 2rem;
+  margin-right: -2rem;
   line-height: 2.4;
-  padding: .75rem 5rem;
 }
 
 h1 {
   font-size: 2rem;
   font-weight: bold;
-  margin: .67em 0px;
+  margin: .67em 0;
 }
 
 .supporting {
